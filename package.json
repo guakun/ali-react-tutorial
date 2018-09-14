@@ -1,0 +1,16 @@
+{
+  "name": "antd-course",
+  "version": "0.0.1",
+  "description": "一个来自阿里的教程",
+  "main": "index.js",
+  "author": "瓜坤",
+  "license": "MIT",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "devDependencies": {
+    "umi": "^2.0.3",
+    "umi-plugin-react": "^1.0.3"
+  }
+}
